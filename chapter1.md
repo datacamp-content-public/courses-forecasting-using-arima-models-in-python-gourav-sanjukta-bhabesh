@@ -40,3 +40,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Lesson 3.1: Workings and some theory of AR model
+
+```yaml
+type: VideoExercise
+key: 9fddc043d4
+xp: 50
+```
+
+`@projector_key`
+da666c16948605f11e7788be7c148703
